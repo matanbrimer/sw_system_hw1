@@ -12,7 +12,7 @@ int main(){
 
 
 
-char s[][40]= {"The Armstrong numbers are: ","The Palindromes are:","The Prime numbers are: ","The Strong numbers are: "};
+char s[][40]= {"The Armstrong numbers are: ","The Palindromes are: ","The Prime numbers are: ","The Strong numbers are: "};
 
 for (int i = 1; i <= 4; i++)
 {

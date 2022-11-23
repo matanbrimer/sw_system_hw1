@@ -7,7 +7,6 @@ int main(){
 
     do
     {
-        printf("Please enter 2 positive number \n");
         scanf("%d %d", &num1 ,&num2);
     } while (num1 < 0 || num2 < 0 || num1>num2) ;
 
